@@ -1,4 +1,5 @@
 const router = require('express').Router();
+
 const {
     getAllUsers,
     getUserById,
@@ -7,7 +8,7 @@ const {
     updateUser,
     deleteUser,
     deleteFriend
-} = require('../../controllers/userRoutes');
+} = require('../../controllers/userController.js');
 
 router
     .route('/')
