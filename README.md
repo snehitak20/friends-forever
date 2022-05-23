@@ -38,7 +38,9 @@ REACTIONS ROUTES:
 * POST (create) a single reaction to thought by ID: `/api/thoughts/:thoughtId/reactions`
 * DELETE a reaction by ID from thought by ID: `/api/thoughts/:thoughtId/reactions/:reactionId`
  
- <!-- Add in gif of route!! -->
+[![Reaction Routes](./assets/reactionRoutes.gif)](https://drive.google.com/file/d/1sXgXO2qhz3DYhy0KfZDRRkDvPMNL0fCY/view "video")
+
+[Link to video](https://drive.google.com/file/d/1sXgXO2qhz3DYhy0KfZDRRkDvPMNL0fCY/view)
 
 ## Usage
 * Run `npm install` to make sure everything is up-to-date
