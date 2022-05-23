@@ -12,6 +12,7 @@ USER ROUTES:
 * DELETE user by ID: `/api/users/:id`
 
 [![User Routes](./assets/userRoutes.gif)](https://drive.google.com/file/d/1cJOf6A5Tw4K7Nw_dq4Z0hl7aFAm7NnCk/view?usp=sharing "video")
+
 [Link to video](https://drive.google.com/file/d/1cJOf6A5Tw4K7Nw_dq4Z0hl7aFAm7NnCk/view?usp=sharing)
 
 THOUGHTS ROUTES: 
@@ -22,6 +23,7 @@ THOUGHTS ROUTES:
 * DELETE thought by ID: `api/thoughts/:id`
 
 [![Thoughts Routes](./assets/thoughtsRoutes.gif)](https://drive.google.com/file/d/1qMnr_ac9gsqyugD8cOqGyXFeXbFEj8_W/view?usp=sharing "video")
+
 [Link to video](https://drive.google.com/file/d/1qMnr_ac9gsqyugD8cOqGyXFeXbFEj8_W/view?usp=sharing)
 
 FRIENDS ROUTES: 
@@ -29,6 +31,7 @@ FRIENDS ROUTES:
 * DELETE a friend by ID: `/api/users/:userId/friends/:friendId` 
 
 [![Friends Routes](./assets/friendsRoutes.gif)](https://drive.google.com/file/d/1Fx6NWxSPixuCTAO4NeGcvOIfDrKyo54l/view "video")
+
 [Link to video](https://drive.google.com/file/d/1Fx6NWxSPixuCTAO4NeGcvOIfDrKyo54l/view)
 
 REACTIONS ROUTES: 
