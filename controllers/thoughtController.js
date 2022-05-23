@@ -36,7 +36,7 @@ const thoughtController = {
            .catch(err => {
                console.log(err);
                res.status(500).json(err)
-           });
+           })
     },
 
     // POST (create) a thought
@@ -59,7 +59,7 @@ const thoughtController = {
             .catch(err => res.json(err));
     },
 
-    //PUT (update) a thought
+    // PUT (update) a thought
     updateThought({ params, body }, res) {
         Thought.findOneAndUpdate(
             { _id: params.id }, 
